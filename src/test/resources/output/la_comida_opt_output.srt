@@ -1,0 +1,139 @@
+1
+00:00:06,080 --> 00:00:06,780
+¡Buenas tardes!
+
+2
+00:00:06,780 --> 00:00:07,560
+Buenas tardes.
+
+3
+00:00:07,920 --> 00:00:10,480
+Yo necesito una mesa y un menu.
+
+4
+00:00:10,900 --> 00:00:13,340
+¡Si! ¿Usted tiene una reservación?
+
+5
+00:00:13,888 --> 00:00:15,888
+No, no tengo una reservación.
+
+6
+00:00:15,888 --> 00:00:16,923
+Si.
+
+7
+00:00:18,260 --> 00:00:21,920
+Yo necesito una mesa para una persona.
+
+8
+00:00:24,724 --> 00:00:26,724
+Sientense por favor.
+
+9
+00:00:26,724 --> 00:00:27,693
+Soy el camarero.
+
+10
+00:00:29,360 --> 00:00:31,660
+¿Tiene usted hambre o sed?
+
+11
+00:00:31,680 --> 00:00:33,940
+Si, yo tengo hambre y sed.
+
+12
+00:00:37,080 --> 00:00:39,080
+Aquí es el menu.
+
+13
+00:00:43,320 --> 00:00:47,400
+¿Qué comidas y bebidas quiere usted?
+
+14
+00:00:52,800 --> 00:00:58,520
+Yo quiero la ensalada, las plátanos con pepinos, y una Cola.
+
+15
+00:01:00,380 --> 00:01:02,380
+¿Quiere usted una ensalada con o sin tomates?
+
+16
+00:01:04,720 --> 00:01:06,720
+Yo quiero una ensalada con tomates.
+
+17
+00:01:07,740 --> 00:01:09,071
+Si.
+
+18
+00:01:09,240 --> 00:01:14,080
+¿Puedo tener los utensilios y la servillita?
+
+19
+00:01:14,080 --> 00:01:14,894
+Si.
+
+20
+00:01:23,600 --> 00:01:24,520
+Gracias.
+
+21
+00:01:38,226 --> 00:01:40,226
+Aquí es su bebida.
+
+22
+00:01:53,080 --> 00:01:56,500
+Aquí son su plátano y pepino.
+
+23
+00:02:04,280 --> 00:02:06,280
+Aquí es su ensalada.
+
+24
+00:02:13,500 --> 00:02:15,500
+¡La comida es buena!
+
+25
+00:02:16,100 --> 00:02:18,100
+¿Quiere usted el postre?
+
+26
+00:02:19,100 --> 00:02:21,100
+No, no quiero el postre.
+
+27
+00:02:24,600 --> 00:02:26,600
+¿Puedo tener el cheque?
+
+28
+00:02:27,460 --> 00:02:34,720
+Si. ¿Quiere usted a pagar con la tarjeta de crédito o efectivo?
+
+29
+00:02:35,500 --> 00:02:38,680
+Yo pago con la tarjeta de credito.
+
+30
+00:02:38,880 --> 00:02:39,420
+¡Si!
+
+31
+00:02:46,760 --> 00:02:51,200
+Aquí es el cheque, y su tarjeta de credito.
+
+32
+00:02:56,940 --> 00:02:58,940
+¡Gracias!
+
+33
+00:03:02,240 --> 00:03:11,660
+Gracias para el servicio. Usted es amable. Aquí está la propina.
+
+34
+00:03:13,060 --> 00:03:13,560
+¡Gracias!
+
+35
+00:03:13,700 --> 00:03:14,620
+(Venir Otra Vez) 
