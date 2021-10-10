@@ -33,9 +33,7 @@ etc.
 Without the proper line breaks, the file is unreadable as a subtitle track by video players. 
 
 ### Features
-The SRT Formatter program takes the above, unformatted text...
-
-and transforms it into the following: 
+The SRT Formatter program takes the unformatted text in the "Motivation" section ... and transforms it into the following: 
 ```
 1
 00:00:06,080 --> 00:00:06,780
