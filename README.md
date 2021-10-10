@@ -22,7 +22,7 @@ This is an example of
 a subtitle - 2nd subtitle.
 ```
 
-Unfortunately, a large chunk of subtitles export incorrectly as single lines. For example, the following subtitles were exported from one of my middle school Spanish projects:
+Unfortunately, many subtitles are exported incorrectly as single lines. For example, the following subtitles were exported from one of my middle school Spanish projects:
 ```
 1 00:00:06,080 --> 00:00:06,780 ¡Buenas tardes! 2 00:00:06,780 --> 00:00:07,560 Buenas tardes. 3 00:00:07,920 --> 00:00:10,480 Yo necesito una mesa y un menu. 4 00:00:10,900 --> 00:00:13,340 ¡Si! ¿Usted tiene una reservación? 5 00:00:13,888 --> 00:00:15,888 No, no tengo una reservación. 6 00:00:15,888 --> 00:00:16,923 Si. 7 00:00:18,260 --> 00:00:21,920 Yo necesito una mesa para una persona. 8 00:00:24,724 --> 00:00:26,724 Sientense por favor. 9 00:00:26,724 --> 00:00:27,693 Soy el camarero. 10 00:00:29,360 --> 00:00:31,660 ¿Tiene usted hambre o sed? 11 00:00:31,680 --> 00:00:33,940 Si, yo tengo hambre y sed. 12 00:00:37,080 --> 00:00:39,080 Aquí es el menu. 13 00:00:43,320 --> 00:00:47,400
 
