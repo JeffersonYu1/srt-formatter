@@ -1,5 +1,5 @@
 # SRT Formatter
-Java program that formats single-line captions into proper SRT (SubRip Subtitle) files. Written by Jefferson Yu.
+Java program that formats captions written in a single-line into proper SRT (SubRip Subtitle) files. Written by Jefferson Yu.
 
 ## About the Project
 ### Motivation
